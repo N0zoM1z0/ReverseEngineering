@@ -3,9 +3,9 @@
 这个网站的题目都挺有意思的，算是ctf和实战的一个桥梁吧。
 
 Progress:
-- [ ] Easy Crack
-- [ ] Easy Keygen
-- [ ] Easy Unpack
+- [x] Easy Crack
+- [x] Easy Keygen
+- [x] Easy UnpackMe
 - [ ] Music Player
 - [ ] Replace
 - [ ] ImagePrc
@@ -21,7 +21,7 @@ Progress:
 - [ ] HateIntel
 - [ ] SimpleVM
 - [ ] AutoHotkey2
-- [ ] x64 Lotto
+- [x] x64 Lotto
 - [ ] CSHARP
 - [ ] Flash Encrypt
 - [ ] MetroApp
